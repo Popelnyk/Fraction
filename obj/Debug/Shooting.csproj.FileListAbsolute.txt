@@ -1,0 +1,9 @@
+C:\D\C#\Shooting\bin\Debug\Shooting.exe.config
+C:\D\C#\Shooting\bin\Debug\Shooting.exe
+C:\D\C#\Shooting\bin\Debug\Shooting.pdb
+C:\D\C#\Shooting\obj\Debug\Shooting.csprojAssemblyReference.cache
+C:\D\C#\Shooting\obj\Debug\Shooting.Shooting.resources
+C:\D\C#\Shooting\obj\Debug\Shooting.Properties.Resources.resources
+C:\D\C#\Shooting\obj\Debug\Shooting.csproj.GenerateResource.cache
+C:\D\C#\Shooting\obj\Debug\Shooting.exe
+C:\D\C#\Shooting\obj\Debug\Shooting.pdb
