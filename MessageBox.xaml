@@ -1,0 +1,17 @@
+﻿<Window x:Class="LabPyatnashki.MessageBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="CONGRATILATIONS" Height="200" Width="400"
+        ResizeMode="NoResize"
+        Closing="Window_Closing"
+        >
+    <Grid Background="#FF686868">
+        <TextBlock Name="MessageContainer" TextWrapping="WrapWithOverflow" Margin="30,10,150,10" VerticalAlignment="Center" FontSize="18" Foreground="#FF48FFFF"/>
+        <Button Name="YesButton" Content="YES" HorizontalAlignment="Left" Margin="280,40,0,0" VerticalAlignment="Top" Width="75" Height ="30" PreviewMouseDown="YesButton_PreviewMouseDown" Foreground="#FF2BF14F" Background="#FF818181" BorderBrush="White" FontSize="20"/>
+        <Button Name="NoButton" Content="NO" HorizontalAlignment="Left" Margin="280,100,0,0" VerticalAlignment="Top" Width="75" Height="30" PreviewMouseDown="NoButton_PreviewMouseDown" Foreground="#FFEC7358" Background="#FF818181" BorderBrush="White" FontSize="20"/>
+
+    </Grid>
+</Window>

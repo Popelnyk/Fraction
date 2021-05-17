@@ -1,0 +1,17 @@
+C:\Users\max\source\repos\LabPyatnashki\bin\Debug\LabPyatnashki.exe.config
+C:\Users\max\source\repos\LabPyatnashki\bin\Debug\LabPyatnashki.exe
+C:\Users\max\source\repos\LabPyatnashki\bin\Debug\LabPyatnashki.pdb
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.csprojAssemblyReference.cache
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\MainWindow.g.cs
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\App.g.cs
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki_MarkupCompile.cache
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki_MarkupCompile.lref
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\MainWindow.baml
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.g.resources
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.Properties.Resources.resources
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.csproj.GenerateResource.cache
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.exe
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\LabPyatnashki.pdb
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\MessageBox.baml
+C:\Users\max\source\repos\LabPyatnashki\obj\Debug\MessageBox.g.cs
